@@ -14,8 +14,7 @@ export default function PageProducts() {
 
   return (
     <div className={classes.content}>
-      <div>new version</div>
-      <div>last version</div>
+      <div>Products from AWS labmda!</div>
       <Products/>
     </div>
   );
