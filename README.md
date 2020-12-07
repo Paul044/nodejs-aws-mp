@@ -1,5 +1,7 @@
 nodejs-aws-mp
 
+https://github.com/rolling-scopes-school/nodejs-aws-fe
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
